@@ -1,6 +1,8 @@
 # Podcast
 PODCAST / O impacto da Engenharia de Prompt na Programação
 
+Podcast no youutube: https://youtu.be/4LgBOJa8uqE?si=AYbhuz2HwFNWvaG5
+
 Seja bem-vindo ao nosso podcast! 
 Vamos falar sobre um tema que está revolucionando a forma como programadores interagem com a inteligência artificial: a engenharia de prompt. 
 
