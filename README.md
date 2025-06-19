@@ -1,7 +1,7 @@
 # Podcast
 PODCAST / O impacto da Engenharia de Prompt na Programação
 
-YouuTube: https://youtu.be/4LgBOJa8uqE?si=AYbhuz2HwFNWvaG5
+YouTube: https://youtu.be/4LgBOJa8uqE?si=AYbhuz2HwFNWvaG5
 
 Linkedin: https://www.linkedin.com/posts/solmorcillo_podcast-o-impacto-da-engenharia-de-prompt-activity-7329138780697792515-8UtK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU
 
